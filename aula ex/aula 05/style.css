@@ -40,6 +40,10 @@ div.box{
     width: 40%;
 }
 
+select#lista{
+    width: 150px;
+}
+
 div.div1{
     display: flex;
     justify-content: center;
